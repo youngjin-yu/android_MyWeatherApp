@@ -1,0 +1,38 @@
+
+u	java:S116'"ZRename this field "total_recovered" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘°™]8ÛÂ…š.
+_
+java:S1854‚"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ8éŒ–…š.
+O
+java:S1481M"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ8šØ…†š.
+y	java:S116("XRename this field "updated_dates" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üª‚şøÿÿÿÿ8ÛÂ…š.
+o	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÛìŸùÿÿÿÿ8éŒ–…š.
+u	java:S116$"TRename this field "new_cases" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ô‡ñùÿÿÿÿ8ùô…š.
+F
+java:S1148°"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8éŒ–…š.
+P
+java:S1481‚"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ8éŒ–…š.
+¤
+java:S1186…"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø…¨¥ıÿÿÿÿ8éŒ–…š.
+n	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ‰‚ø8éŒ–…š.
+x	java:S116%"WRename this field "total_deaths" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ì¦İıÿÿÿÿ8ùô…š.
+E
+java:S1148s"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8šØ…†š.
+]	java:S125="<This block of commented-out lines of code should be removed.(„Ï·ñıÿÿÿÿ8¼ëÇ©š.
+N
+java:S1172º"+Remove this unused method parameter "view".(¼‡úÁÿÿÿÿÿ8ÂÕŠ†š.
+v	java:S116&"URename this field "new_deaths" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€çÂüÿÿÿÿ8ùô…š.
+^
+java:S1854M"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ8šØ…†š.
+£
+java:S1186P"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø…¨¥ıÿÿÿÿ8šØ…†š.
+f
+java:S1854"CRemove this useless assignment to local variable "coronaVirusInfo".(‰ïí‘ùÿÿÿÿ8éŒ–…š.
+>
+java:S1643c"Use a StringBuilder instead.(—âÈúÿÿÿÿ8Üë¤†š.
+	java:S116)"lRename this field "search_coronaVirusStatusByCountry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ù‡×ıÿÿÿÿ8–ºì†š.
+N
+java:S1172´"+Remove this unused method parameter "view".(˜¯ı´şÿÿÿÿ8’ŸÛ†š.
+W
+java:S1481"4Remove this unused "coronaVirusInfo" local variable.(‰ïí‘ùÿÿÿÿ8éŒ–…š.
+w	java:S116#"VRename this field "total_cases" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯òá¡ûÿÿÿÿ8Ãõ‹…š.
+o	java:S116""NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úËÆ¿şÿÿÿÿ8îß‰‚š.

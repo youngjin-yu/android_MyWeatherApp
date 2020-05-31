@@ -1,0 +1,19 @@
+
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+‚
+Rapp/src/main/java/com/myproject/myweatherapp/activity/WeatherForecastActivity.java,5\9\5994738e0c2f9e05212ac2a713751d6b4110694d
+}
+Mapp/src/main/java/com/myproject/myweatherapp/adapter/RecyclerViewAdapter.java,7\9\79dcfaad7c87122fbe873b7cae7f32e9b43fd4f0
+~
+Napp/src/main/java/com/myproject/myweatherapp/activity/ViewDetailsActivity.java,1\2\125d7f6c933e0f73b75feef03a3ce83e8b8239f9
+u
+Eapp/src/main/java/com/myproject/myweatherapp/DTO/CoronaVirusInfo.java,e\7\e7239397ab2528880ef44c949936bbe0681df404
+‰
+Yapp/src/main/java/com/myproject/myweatherapp/activity/ViewDetailsCoronaVirusActivity.java,9\3\9324dd64a82fb1d3899188535252c2477f228691
+v
+Fapp/src/main/java/com/myproject/myweatherapp/thread/ParsingThread.java,a\6\a664f09a19eff5ff3b4d7b4868e1ffab183b395f
+w
+Gapp/src/main/java/com/myproject/myweatherapp/activity/MainActivity.java,d\0\d0048848ce07450b9baf25c2c1b5b68a3c70bdbf

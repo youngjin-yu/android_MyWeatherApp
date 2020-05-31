@@ -1,0 +1,15 @@
+
+W	java:S125"<This block of commented-out lines of code should be removed.(•Şâm8’ó‰©š.
+X	java:S125+"<This block of commented-out lines of code should be removed.(Ê¢¥¯8ö„œâ™.
+]	java:S125"<This block of commented-out lines of code should be removed.(ö¨·şÿÿÿÿ8½ºªš.
+P
+java:S1481".Remove this unused "elements2" local variable.(©š‹èúÿÿÿÿ8½ºªš.
+]	java:S125)"<This block of commented-out lines of code should be removed.(ÓÜú›şÿÿÿÿ8£ö¬ä™.
+]	java:S125!"<This block of commented-out lines of code should be removed.(¶øâ¦üÿÿÿÿ8›ÿÏä™.
+_
+java:S1854"=Remove this useless assignment to local variable "elements2".(©š‹èúÿÿÿÿ8½ºªš.
+]	java:S125"<This block of commented-out lines of code should be removed.(ëíá–øÿÿÿÿ8€Ã¾ªš.
+E
+java:S1148\"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğ±Şİ™.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÅàŸ‹8êÏÈë™.
+X	java:S125"<This block of commented-out lines of code should be removed.(ıù€Ó8½ºªš.

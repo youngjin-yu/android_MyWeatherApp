@@ -1,0 +1,31 @@
+
+Q
+java:S1444*"6Make this "public static isConnectionOkay" field final(Þôö×ùÿÿÿÿ
+i	java:S116#"TRename this field "view_temp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š†ïœ
+?
+java:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+l	java:S116'"WRename this field "view_weather" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”åÚì
+W
+java:S1854U"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ
+G
+java:S1172Î"+Remove this unused method parameter "view".(Ð¸™áúÿÿÿÿ
+f	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„†¨Â
+i	java:S116$"TRename this field "view_desc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íéÐ¤
+w
+java:S1104*"\Make isConnectionOkay a static final constant or non-public and provide accessors if needed.(Þôö×ùÿÿÿÿ
+f	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êß±µ
+t	java:S116)"ZRename this field "search_floating" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öˆÒÃÿÿÿÿÿ
+œ
+java:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø…¨¥ýÿÿÿÿ
+n	java:S116""TRename this field "view_city" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÂ©Ìúÿÿÿÿ
+s	java:S116%"YRename this field "view_windchill" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýš”Ãýÿÿÿÿ
+L
+java:S2696a"6Make the enclosing method "static" or remove this set.(’Òèó
+H
+java:S1481U"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ
+k	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹–Ñ†øÿÿÿÿ
+B
+java:S1172Ø"+Remove this unused method parameter "view".(ýº˜–
+A
+java:S1172Ý"+Remove this unused method parameter "view".(êŒ´U
+h	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€›—¼þÿÿÿÿ

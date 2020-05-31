@@ -1,0 +1,14 @@
+
+
+java:S1319)"|The type of the "myWeatherInfoList" object should be an interface such as "List" rather than the implementation "ArrayList".(äßÚÎÿÿÿÿÿ8§ºÛ™.
+]	java:S125M"<This block of commented-out lines of code should be removed.(±ÏËíùÿÿÿÿ8¿áğ‹™.
+V	java:S1253"<This block of commented-out lines of code should be removed.(Æ¬€¤úÿÿÿÿ
+o
+java:S3776?"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ßû ¤8Ùæ´Œ™.
+V	java:S125"<This block of commented-out lines of code should be removed.(¸âıíşÿÿÿÿ
+]	java:S125O"<This block of commented-out lines of code should be removed.(€ƒ›°ûÿÿÿÿ8Ñæñ‹™.
+V	java:S125"<This block of commented-out lines of code should be removed.(ØßÚìıÿÿÿÿ
+K
+java:S1066’"/Merge this if statement with the enclosing one.(Š¯ø‚üÿÿÿÿ
+x
+java:S14888"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(öÛœ

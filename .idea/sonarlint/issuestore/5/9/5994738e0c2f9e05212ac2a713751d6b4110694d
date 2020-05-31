@@ -1,0 +1,33 @@
+
+^
+java:S1854s"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ8íáŸ³š.
+V
+java:S1444""9Make this "public static recyclerViewAdapter" field final(‰ Âí8ùàËŒ™.
+]	java:S125a"<This block of commented-out lines of code should be removed.(Ü‹¶úÿÿÿÿ8£Ìä™.
+o	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€›—¼şÿÿÿÿ8ùœêˆ™.
+£
+java:S1186v"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø…¨¥ıÿÿÿÿ8ùœêˆ™.
+O
+java:S1481s"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ8íáŸ³š.
+Q
+java:S1444#"4Make this "public static WEATHER_DETAIL" field final(ÊÇ•ë8ıŠğ™.
+‚
+java:S1104!"`Make weatherInfoArrayList a static final constant or non-public and provide accessors if needed.(æ‰„ïşÿÿÿÿ8¾¾ËŒ™.
+w
+java:S1104#"ZMake WEATHER_DETAIL a static final constant or non-public and provide accessors if needed.(ÊÇ•ë8ıŠğ™.
+v
+java:S3008#"YRename this field "WEATHER_DETAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÇ•ë8ıŠğ™.
+X	java:S1257"<This block of commented-out lines of code should be removed.(±–µ8¬‚—‰™.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(úÈ¡–üÿÿÿÿ8³Ì‘‰™.
+¡
+java:S1319!"The type of the "weatherInfoArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(æ‰„ïşÿÿÿÿ8¾¾ËŒ™.
+F
+java:S1148³"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ùœêˆ™.
+|
+java:S1104""_Make recyclerViewAdapter a static final constant or non-public and provide accessors if needed.(‰ Âí8ùàËŒ™.
+]	java:S125^"<This block of commented-out lines of code should be removed.(Ÿ‹Â½úÿÿÿÿ8Éææ™.
+\
+java:S1444!":Make this "public static weatherInfoArrayList" field final(æ‰„ïşÿÿÿÿ8¾¾ËŒ™.
+X	java:S125™"<This block of commented-out lines of code should be removed.(¿ª‘O8ëÁ’‰™.
+X	java:S125"<This block of commented-out lines of code should be removed.(ƒ¢Òb8Ü½‰™.
+o	java:S116'"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¡ïşşÿÿÿÿ8êœÈ™.

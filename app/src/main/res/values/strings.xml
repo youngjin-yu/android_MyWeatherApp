@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="timezone">시간대: </string>
+    <string name="temperature">기온: </string>
+    <string name="windchill">체감온도: </string>
+    <string name="description">설명: </string>
+</resources>
